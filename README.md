@@ -1,4 +1,4 @@
-<img align="right" style="margin-right: 30px" height="380"  src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
+<img align="right" style="margin-right: 30px;" height="380"  src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 
 <h1>
     <a href="https://elidianaandrade.github.io/">
