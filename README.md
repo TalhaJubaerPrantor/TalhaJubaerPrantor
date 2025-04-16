@@ -3,7 +3,7 @@
 <h1>
     <a href="https://elidianaandrade.github.io/">
      <img align="center" alt="Logo Elidiana Andrade" width="36px" src="https://user-images.githubusercontent.com/97471199/230773934-2eeb538d-d992-4199-872e-117c1c635d81.png"></a>
-    <span>Elidiana Andrade</span>
+    <span>Talha Jubaer Prantor</span>
 </h1>
 
 <p align="justify">Tech Education Analyst at DIO, post graduating at Software Development with Agile Methodology. My first "Hello World" was in pre-teens when I had contact with HTML, CSS and a little bit of JavaScript and Notepad++. 
