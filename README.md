@@ -21,7 +21,7 @@
 
 ### LeetCode Stats
 <img align="left" width="47%" height="200px" alt="Top langs" src="https://leetcard.jacoblin.cool/talhajubaer?theme=unicorn"/>
-<img align="left" width="47%" height="250px" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaJubaerPrantor&layout=compact&&langs_count=8&icons=true&title_color=FF00F6&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760"/>
+<img align="left" width="47%" height="200px" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaJubaerPrantor&layout=compact&&langs_count=8&icons=true&title_color=FF00F6&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760"/>
 
 
 
