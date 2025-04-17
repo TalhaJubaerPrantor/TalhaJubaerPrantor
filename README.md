@@ -20,7 +20,7 @@
 [![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF00F6&color:FFF)](https://www.youtube.com/)
 
 ### LeetCode Stats
-<img align="left" width="47%" height="200px" alt="Top langs" src="https://leetcard.jacoblin.cool/talhajubaer?theme=unicorn"/>
+<img align="left" width="47%" height="250px" alt="Top langs" src="https://leetcard.jacoblin.cool/talhajubaer?theme=unicorn"/>
 <img align="left" width="47%" height="200px" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaJubaerPrantor&layout=compact&&langs_count=8&line_height=10&card_width=290&icons=true&title_color=FF00F6&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760"/>
 
 
