@@ -1,7 +1,7 @@
-<img align="right" style="margin-top: 30;" height="380"  src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
+<img align="right"  style="margin-top: 30;" height="380"  src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 
 <h1>
-    <a href="https://elidianaandrade.github.io/"></a>
+    <a  href="https://elidianaandrade.github.io/"></a>
     <span>Talha Jubaer Prantor</span>
 </h1>
 
@@ -20,7 +20,8 @@
 [![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF00F6&color:FFF)](https://www.youtube.com/@casalfullstack)
 
 ### LeetCode Stats
-![](https://leetcard.jacoblin.cool/talhajubaer?theme=unicorn)
-<!--[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=elidianaandrade&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=FF00F6&hide=html,css,scss&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/elidianaandrade/github-readme-stats)-->
+<img align="left" height="200px" alt="Top langs" src="https://leetcard.jacoblin.cool/talhajubaer?theme=unicorn"/>
+<img align="left" height="200px" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaJubaerPrantor&layout=compact&&langs_count=8&line_height=10&card_width=290&icons=true&title_color=FF00F6&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760"/>
+
 
 
