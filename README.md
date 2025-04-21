@@ -5,9 +5,9 @@
     <span>Talha Jubaer Prantor</span>
 </h1>
 
-<p align="justify">Tech Education Analyst at DIO, post graduating at Software Development with Agile Methodology. My first "Hello World" was in pre-teens when I had contact with HTML, CSS and a little bit of JavaScript and Notepad++. 
+<p align="justify">I am pursuing a BSc in Computer Science and Engineering at Bangladesh University of Business and Technology. Going through learning and solving problems on DSA. Have knowledge on MERN stack. 
 <br>
- Passionate about arts and technology, some of my hobbies are games, watching, reading, and making cosplay accessories <a href="https://www.instagram.com/elicosmaker/">(@elicosmaker)</a>.</p>
+ Passionate about arts and technology, some of my hobbies are games, watching, reading, and roaming.</p>
 <!--
 [![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://elidianaandrade.github.io/)
 [![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
