@@ -3,7 +3,9 @@
 <h1>
     <a  href="https://elidianaandrade.github.io/"></a>
     <span>Talha Jubaer Prantor</span>
+    <img src="https://github.com/user-attachments/assets/1c9435d2-717f-43f0-b520-a5ffd4430046" width="30"/>
 </h1>
+
 
 <p align="justify">I am pursuing a BSc in Computer Science and Engineering at Bangladesh University of Business and Technology. Going through learning and solving problems on DSA. Have knowledge on MERN stack. 
 <br>
