@@ -17,7 +17,7 @@
 
 ### Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/talha-jubaer-prantor/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/talha-jubaer-prantor/)
 [![Instagram](https://img.shields.io/badge/-Facebook-000?style=for-the-badge&logo=facebook&logoColor=FF00F6&color:FFF)](https://www.facebook.com/profile.php?id=100010981572783)
 
 
