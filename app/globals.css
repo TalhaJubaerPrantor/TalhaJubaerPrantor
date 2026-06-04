@@ -1,26 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap');
+
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+@theme {
+  --color-background: #0f172a;
+  --color-foreground: #f1f5f9;
+  --color-muted: #1e293b;
+  --color-muted-foreground: #cbd5e1;
+  --color-border: #334155;
+  --color-accent: #10b981;
+  --color-primary: #06b6d4;
+
+  --font-inter: "Inter", sans-serif;
+  --font-jakarta: "Plus Jakarta Sans", sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+
+  --spacing-xs: 4px;
+  --spacing-sm: 8px;
+  --spacing-md: 12px;
+  --spacing-lg: 16px;
+  --spacing-xl: 24px;
+  --spacing-2xl: 32px;
+  --spacing-3xl: 40px;
+  --spacing-4xl: 80px;
+
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-full: 9999px;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
+@layer base {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply font-inter text-base leading-normal text-foreground bg-background transition-colors duration-300;
+  }
+
+  h1 {
+    @apply font-jakarta text-5xl font-extrabold leading-tight;
+  }
+
+  h2 {
+    @apply font-jakarta text-3xl font-semibold leading-snug;
+  }
+
+  h3, h4, h5, h6 {
+    @apply font-jakarta font-semibold;
+  }
+
+  code, pre {
+    @apply font-mono;
+  }
+
+  a {
+    @apply text-cyan-400 transition-colors duration-200 no-underline hover:text-cyan-300;
+  }
+
+  button {
+    @apply font-inter font-medium rounded-full border-none cursor-pointer transition-all duration-200;
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+@layer utilities {
+  .heading-xl {
+    @apply font-jakarta text-5xl font-extrabold leading-12 tracking-normal;
+  }
+
+  .heading-lg {
+    @apply font-jakarta text-3xl font-semibold leading-9 tracking-normal;
+  }
+
+  .body-lg {
+    @apply font-inter text-lg font-semibold leading-7 tracking-normal;
+  }
+
+  .body-base {
+    @apply font-inter text-base font-normal leading-6 tracking-normal;
+  }
+
+  .body-sm {
+    @apply font-inter text-sm font-normal leading-5 tracking-normal;
+  }
+
+  .label-medium {
+    @apply font-inter text-sm font-medium leading-5 tracking-normal;
+  }
+
+  .code {
+    @apply font-mono text-sm font-normal leading-5 tracking-normal;
+  }
+
+  /* Smooth scrollbar styling */
+  ::-webkit-scrollbar {
+    @apply w-2;
+  }
+
+  ::-webkit-scrollbar-track {
+    @apply bg-slate-900;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    @apply bg-slate-700 rounded-full;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    @apply bg-slate-600;
+  }
+
+  /* Gradient text animation */
+  @keyframes gradient-shift {
+    0%, 100% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+  }
+
+  .animate-gradient {
+    background-size: 200% 200%;
+    animation: gradient-shift 3s ease infinite;
+  }
+
+  /* Glow effect */
+  .glow-effect {
+    @apply shadow-lg shadow-cyan-500/50;
+  }
+
+  .glow-effect:hover {
+    @apply shadow-cyan-400/70;
+  }
 }
